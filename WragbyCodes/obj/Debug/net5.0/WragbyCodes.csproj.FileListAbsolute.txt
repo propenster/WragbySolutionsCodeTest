@@ -3,3 +3,14 @@ C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.GeneratedMSBu
 C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.AssemblyInfoInputs.cache
 C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.AssemblyInfo.cs
 C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.csproj.CoreCompileInputs.cache
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\WragbyCodes.exe
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\WragbyCodes.deps.json
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\WragbyCodes.runtimeconfig.json
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\WragbyCodes.runtimeconfig.dev.json
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\WragbyCodes.dll
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\ref\WragbyCodes.dll
+C:\Users\User\WragbyCodes\WragbyCodes\bin\Debug\net5.0\WragbyCodes.pdb
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.dll
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\ref\WragbyCodes.dll
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.pdb
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.genruntimeconfig.cache

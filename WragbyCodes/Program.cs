@@ -75,7 +75,7 @@ namespace WragbyCodes
 
         private static List<string> SortList(List<string> listOfString)
         {
-            return listOfString.OrderBy(x => x.Length).OrderBy(x => x.Name);
+            return listOfString.OrderBy(x => x.Length).OrderBy(x => nameof(x)).ToList();
         }
 
         private static int SumEvenNumbersInArray(int[] array)
