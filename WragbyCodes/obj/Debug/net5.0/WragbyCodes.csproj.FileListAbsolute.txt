@@ -1,0 +1,5 @@
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.csproj.AssemblyReference.cache
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.AssemblyInfoInputs.cache
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.AssemblyInfo.cs
+C:\Users\User\WragbyCodes\WragbyCodes\obj\Debug\net5.0\WragbyCodes.csproj.CoreCompileInputs.cache

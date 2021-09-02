@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+
 
 namespace WragbyCodes
 {
@@ -22,6 +25,9 @@ namespace WragbyCodes
             Console.WriteLine($"String: {reverseWord} when reversed => {ReverseString(reverseWord)}\n");
 
             //Question 3:
+            // write a method to returns the second largest
+            int[] numArrayToSort = new int[] {1, 2, 3, 4, 5, 6, 7, 8};
+            Console.WriteLine($"The Second Largets Number in this array is => {FindSecondLargestNumInArray(numArrayToSort)}\n");
 
 
             //Question 4:
@@ -44,6 +50,14 @@ namespace WragbyCodes
             Console.WriteLine($"Sort of the List by string length and Name => {SortList(stringList)}");
 
 
+        }
+
+        private static int FindSecondLargestNumInArray(int[] array)
+        {
+            Array.Sort(array);
+            Array.Reverse(array);
+
+            return array[1];
         }
 
         private static int CalculateArea(int length, int breadth)
