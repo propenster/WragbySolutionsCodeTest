@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Collections.Generic;
+using System.Text;
 
 
 namespace WragbyCodes
@@ -122,6 +123,8 @@ namespace WragbyCodes
             }
 
             result = sb.ToString();
+
+            return result;
 
         }
     }
